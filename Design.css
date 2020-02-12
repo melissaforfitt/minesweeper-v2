@@ -1,0 +1,17 @@
+#grid-buttons {
+	
+	-fx-effect: dropshadow(gaussian, #cc6060, 8.0, 0.2, 0.0, 0.0);
+	-fx-background-color: #323232;
+	-fx-font-size: 20.0;
+	-fx-font-weight: bold;
+	
+}
+
+#button-select {
+	
+	-fx-effect: dropshadow(gaussian, #cc6060, 8.0, 0.2, 0.0, 0.0);
+	-fx-background-color: #ffffff;
+	-fx-font-size: 20.0;
+	-fx-font-weight: bold;
+	
+}
